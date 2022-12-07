@@ -1,1 +1,2 @@
-# LeggedLocomotion
+# Legged Locomotion
+This repository contains the implementations for the [Biped Walking Pattern Generation by using Preview Control of Zero-Moment Point](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1241826) and [Trajectory Free Linear Model Predictive Control for Stable Walking in the Presence of Strong Perturbations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1241826). The former could be found in kajita.ipynb and the letter in Wieber_preview.ipynb.
